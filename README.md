@@ -2,7 +2,7 @@
 Simple python script that deletes webhooks 
 
 # How to set-up
-You can either download the built exe version found in the releases tab: [delete-webhook/releases](https://github.com/TheCasualDev/delete-webhook/releases)
+You can either download the built exe version found in the releases tab: [delete-webhook/releases](https://github.com/TheCasualDev/delete-webhook/releases) - Anti-Virus currently likes deleting this file, so I would suggest the second method.
 
 Or if you wish you can simply download the main.py file found in the [delete-webhook/src](https://github.com/TheCasualDev/delete-webhook/blob/main/src) folder.
 
